@@ -1,0 +1,164 @@
+[
+    {
+        "name": "Catherine-B320",
+        "description": "Lieutenant Commander Catherine-B320, commonly called Kat, a member of Noble Team as Noble Two, perished during the fall of Reach", 
+        "project": "SPARTAN-III", 
+        "status": "MIA",
+        "affiliation": "Team Noble", 
+        "img": "/imgs/noble2.webp",
+        "link": "https://halo.fandom.com/es/wiki/Catherine-B320"
+    },   
+    {
+        "name": "Carter-A259",
+        "description": "Commander Carter-A259, Leader of NOBLE Team as Noble One, won several battles against the Covenant until he perished during the fall of Reach.", 
+        "project": "SPARTAN-III", 
+        "status": "MIA",
+        "affiliation": "Team Noble", 
+        "img": "/imgs/noble1.webp",
+        "link": "https://halo.fandom.com/es/wiki/Carter-A259"
+    },   
+    {
+        "name": "Jun-A266",
+        "description": "A SPARTAN commando who served for Noble Team under the name Noble 3 during the fall of Reach in the role of sniper. The sole survivor of the Noble Team.", 
+        "project": "SPARTAN-III", 
+        "status": "Active",
+        "affiliation": "Team Noble", 
+        "img": "/imgs/noble3.webp",
+        "link": "https://halo.fandom.com/es/wiki/Jun-A266"
+    } ,
+    {
+        "name": "Emile-A239",
+        "description": "Member of the NOBLE Team as Noble Four, characterized by his bad relationship with non-SPARTANS and the bald head on his helmet , perished during the Fall of Reach.", 
+        "project": "SPARTAN-III", 
+        "status": "MIA",
+        "affiliation": "Team Noble", 
+        "img": "/imgs/noble4.webp",
+        "link": "https://halo.fandom.com/es/wiki/Emile-A239"
+    } ,   
+    {
+        "name": "Jorge-052",
+        "description": "Jorge served with Team NOBLE under the badge of Noble Five during the Fall of Reach. He served as a heavy weapons specialist, and was the only SPARTAN-II on the team. He was the first to perish taking with him an entire enemy Corvette.", 
+        "project": "SPARTAN-II",
+        "status": "MIA",
+        "affiliation": "Team Noble", 
+        "img": "/imgs/noble5.webp",
+        "link": "https://halo.fandom.com/es/wiki/Jorge-052"
+    } ,
+    {
+        "name": "SPARTAN-B312",
+        "description": "Also known as `Lone Wolf`, he joined Team Noble replacing the former Noble Six right at the beginning of the events that led to the Fall of Reach. He was the last to perish from Noble Team on Reach.", 
+        "project": "SPARTAN-III", 
+        "status": "MIA",
+        "affiliation": "Team Noble", 
+        "img": "/imgs/noble6.webp",
+        "link": "https://halo.fandom.com/es/wiki/SPARTAN-B312"
+    },
+    {
+        "name": "Jhon-117",
+        "description": "Chief Warrant Officer John-117, also known as `Master Chief`. He served as one of the most important figures in the Human-Covenant War. After more than thirty years of active service, he is one of the most decorated war veterans of the UNSC. He often plays the role of the leader of the Blue team under the code name Blue One.", 
+        "project": "SPARTAN-II", 
+        "status": "Active",
+        "affiliation": "Blue Team", 
+        "img": "/imgs/jhon-117.webp",
+        "link": "https://www.halopedia.org/John-117"
+    },
+    {
+        "name": "Holly Tanaka",
+        "description": "Spartan Holly Tanaka (service number 93312-28001-HT) is a soldier in the UNSC who served in the years after the Human-Covenant War. After a few years as a UNSC  normal soldier she volunteered to upgrade and train as a Spartan-IV supersoldier.", 
+        "project": "SPARTAN-IV", 
+        "status": "Active",
+        "affiliation": "Osiris Assault Team", 
+        "img": "/imgs/tanaka.webp",
+        "link": "https://halo.fandom.com/es/wiki/Holly_Tanaka"
+    },
+    {
+        "name": "Jameson Locke",
+        "description": "Spartan Jameson Locke (service number 73808-3153-JL) is a former agent with the Office of Naval Intelligence. Prior to becoming a Spartan, Locke had risen to the rank of Lieutenant Commander and served in ONI as an Acquisition Specialist, his duties included retrieving important enemy items as well as tracking and killing people of high value.", 
+        "project": "SPARTAN-IV", 
+        "status": "Active",
+        "affiliation": "Osiris Assault Team", 
+        "img": "/imgs/locke.webp",
+        "link": "https://www.halopedia.org/Jameson_Locke"
+    },
+    {
+        "name": "Kelly-087",
+        "description": "Petty Officer First Class Kelly-087 is a SPARTAN-II supersoldier of the UNSC Naval Special Warfare Command. She is known for her incredible speed. She has participated in 201 operations, more than any other Spartan with the exception of her closest friend, John-117. Frequent member of Team Blue under the alias of Blue Three", 
+        "project": "SPARTAN-II", 
+        "status": "Active",
+        "affiliation": "Blue Team", 
+        "img": "/imgs/kelly-087.webp",
+        "link": "https://www.halopedia.org/Kelly-087"
+    },
+    {
+        "name": "Fred-104",
+        "description": "Lieutenant, Junior Grade Frederic-104, is a SPARTAN-II, skilled marksman and close combatant, Fred is a natural leader and brilliant tactician. A regular member of Blue Team almost since the unit's inception, Fred has served as Blue Team's commander as Blue Two, though he often delegates leadership to his close friend John-117.", 
+        "project": "SPARTAN-II", 
+        "status": "Active",
+        "affiliation": "Blue Team", 
+        "img": "/imgs/fred-104.webp",
+        "link": "https://www.halopedia.org/Frederic-104"
+    },
+    {
+        "name": "Linda-058",
+        "description": "Petty Officer, First Class Linda-058, is one of the few surviving Spartan-IIs. She is best known for her skill with a sniper rifle. Linda often served as Blue Team's lead sniper and scout under the code name Blue Four. By 2558, she had participated in a total of 189 military operations.", 
+        "project": "SPARTAN-II", 
+        "status": "Active",
+        "affiliation": "Blue Team", 
+        "img": "/imgs/linda-058.webp",
+        "link": "https://www.halopedia.org/Linda-058"
+    },
+    {
+        "name": "Edward Buck",
+        "description": "Edward Malcolm Buck (service number 92458-37017-EB) is a SPARTAN-IV supersoldier who served in the UNSC Marine Corps during the Human-Covenant War, spending his last years as an Orbital Drop Shock Trooper (ODST). After the war he was promoted to SPARTAN-IV and eventually joined the Osiris Strike Team. He has completed 188 military operations", 
+        "project": "SPARTAN-IV", 
+        "status": "Active",
+        "affiliation": "Osiris Assault Team", 
+        "img": "/imgs/buck.webp",
+        "link": "https://www.halopedia.org/Edward_Buck"
+    },
+    {
+        "name": "Olympia Vale",
+        "description": "Spartan Olympia Vale (service number 44482-91201-OV) is a Spartan-IV supersoldier of the Osiris Assault Team. Vale is an anthropologist and xenoanthropologist, particularly an expert on Sangheili and Forerunner culture, and fluent in Sangheili. After the Human-Covenant War, Vale served as a professional diplomat for the UNSC, specializing in interspecies relations.", 
+        "project": "SPARTAN-IV", 
+        "status": "Active",
+        "affiliation": "Osiris Assault Team", 
+        "img": "/imgs/olympia.webp",
+        "link": "https://www.halopedia.org/Edward_Buck"
+    },
+    {
+        "name": "Sarah Palmer",
+        "description": "Spartan Commander Sarah E. Palmer is a Spartan in the branch of the UNSC Military and a veteran of the Human-Covenant War. After the war, she transferred from the UNSC Marine Corps Shock Troopers to the new independent branch, and was augmented as one of the first SPARTAN-IV super-soldiers. She was assigned as the commanding officer of the 300-member Spartan contingent aboard the UNSC Infinity.", 
+        "project": "SPARTAN-IV", 
+        "status": "Active",
+        "affiliation": "UNSC Armed Forces", 
+        "img": "/imgs/palmer.webp",
+        "link": "https://www.halopedia.org/Sarah_Palmer"
+    },
+    {
+        "name": "Osiris Assault Team",
+        "description": "The Osiris Assault Team is a specialized combat and intelligence gathering team of Spartan-IV super-soldiers. The team carry out complicated and classified missions for the Unified Earth Government and its United Nations Space Command, usually dealing with problems that the UNSC High Command finds difficult to control. The team's activities are classified at the highest levels of government. Locke is the current leader.", 
+        "project": "SPARTAN-IV", 
+        "status": "Active as of 2558",
+        "affiliation": "United Nations Space Command", 
+        "img": "/imgs/team-osiris.webp",
+        "link": "https://www.halopedia.org/Fireteam_Osiris"
+    },
+    {
+        "name": "Blue Team",
+        "description": "A semi-constant unit comprised of Spartan-IIs under the operational command of the UNSC Naval Special Warfare Command, Blue Team has participated in over two hundred and twenty military operations. The team is exceptional even among Spartans. -II due to their participation in many of the major engagements of both the Insurrection and the Covenant War. He was led by John-117 for most of his activity during the Human-Covenant War, though after John's participation in the Battle of Mombasa, Frederic-104 assumed the role of leader; John then resumed de facto command upon his recovery years later.", 
+        "project": "SPARTAN-II", 
+        "status": "Active as of 2525",
+        "affiliation": "Naval Special Warfare Command(Bransh of the UNSC)", 
+        "img": "/imgs/team-blue.webp",
+        "link": "https://www.halopedia.org/Blue_Team"
+    },
+    {
+        "name": "Noble Team",
+        "description": "Noble Team was a strike team composed primarily of Spartan-III supersoldiers and a Spartan-II commando. Before the Fall of Reach, the Noble Team had managed to survive and win countless battles. His last military campaign was during the fall of Reach where almost all died, however his participation ensured a future for humanity by completing suicide missions. Jun-A266 is the only survivor of the team.", 
+        "project": "SPARTAN-III and SPARTAN-II", 
+        "status": " Disbanded by September 2552",
+        "affiliation": "UNSC Army's Special Warfare Group Three", 
+        "img": "/imgs/team-noble1.webp",
+        "link": "https://www.halopedia.org/NOBLE_Team"
+    } 
+]
