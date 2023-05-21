@@ -5,7 +5,7 @@
         "project": "SPARTAN-III", 
         "status": "MIA",
         "affiliation": "Team Noble", 
-        "img": "/imgs/noble2.webp",
+        "img": "./public/imgs//noble2.webp",
         "link": "https://halo.fandom.com/es/wiki/Catherine-B320"
     },   
     {
@@ -14,7 +14,7 @@
         "project": "SPARTAN-III", 
         "status": "MIA",
         "affiliation": "Team Noble", 
-        "img": "/imgs/noble1.webp",
+        "img": "./public/imgs/noble1.webp",
         "link": "https://halo.fandom.com/es/wiki/Carter-A259"
     },   
     {
@@ -23,7 +23,7 @@
         "project": "SPARTAN-III", 
         "status": "Active",
         "affiliation": "Team Noble", 
-        "img": "/imgs/noble3.webp",
+        "img": "./public/imgs/noble3.webp",
         "link": "https://halo.fandom.com/es/wiki/Jun-A266"
     } ,
     {
@@ -32,7 +32,7 @@
         "project": "SPARTAN-III", 
         "status": "MIA",
         "affiliation": "Team Noble", 
-        "img": "/imgs/noble4.webp",
+        "img": "./public/imgs//noble4.webp",
         "link": "https://halo.fandom.com/es/wiki/Emile-A239"
     } ,   
     {
@@ -41,7 +41,7 @@
         "project": "SPARTAN-II",
         "status": "MIA",
         "affiliation": "Team Noble", 
-        "img": "/imgs/noble5.webp",
+        "img": "./public/imgs/noble5.webp",
         "link": "https://halo.fandom.com/es/wiki/Jorge-052"
     } ,
     {
@@ -50,7 +50,7 @@
         "project": "SPARTAN-III", 
         "status": "MIA",
         "affiliation": "Team Noble", 
-        "img": "/imgs/noble6.webp",
+        "img": "./public/imgs/noble6.webp",
         "link": "https://halo.fandom.com/es/wiki/SPARTAN-B312"
     },
     {
@@ -59,7 +59,7 @@
         "project": "SPARTAN-II", 
         "status": "Active",
         "affiliation": "Blue Team", 
-        "img": "/imgs/jhon-117.webp",
+        "img": "./public/imgs/jhon-117.webp",
         "link": "https://www.halopedia.org/John-117"
     },
     {
@@ -68,7 +68,7 @@
         "project": "SPARTAN-IV", 
         "status": "Active",
         "affiliation": "Osiris Assault Team", 
-        "img": "/imgs/tanaka.webp",
+        "img": "./public/imgs/tanaka.webp",
         "link": "https://halo.fandom.com/es/wiki/Holly_Tanaka"
     },
     {
@@ -77,7 +77,7 @@
         "project": "SPARTAN-IV", 
         "status": "Active",
         "affiliation": "Osiris Assault Team", 
-        "img": "/imgs/locke.webp",
+        "img": "./public/imgs/locke.webp",
         "link": "https://www.halopedia.org/Jameson_Locke"
     },
     {
@@ -86,7 +86,7 @@
         "project": "SPARTAN-II", 
         "status": "Active",
         "affiliation": "Blue Team", 
-        "img": "/imgs/kelly-087.webp",
+        "img": "./public/imgs/kelly-087.webp",
         "link": "https://www.halopedia.org/Kelly-087"
     },
     {
@@ -95,7 +95,7 @@
         "project": "SPARTAN-II", 
         "status": "Active",
         "affiliation": "Blue Team", 
-        "img": "/imgs/fred-104.webp",
+        "img": "./public/imgs/fred-104.webp",
         "link": "https://www.halopedia.org/Frederic-104"
     },
     {
@@ -104,7 +104,7 @@
         "project": "SPARTAN-II", 
         "status": "Active",
         "affiliation": "Blue Team", 
-        "img": "/imgs/linda-058.webp",
+        "img": "./public/imgs/linda-058.webp",
         "link": "https://www.halopedia.org/Linda-058"
     },
     {
@@ -113,7 +113,7 @@
         "project": "SPARTAN-IV", 
         "status": "Active",
         "affiliation": "Osiris Assault Team", 
-        "img": "/imgs/buck.webp",
+        "img": "./public/imgs/buck.webp",
         "link": "https://www.halopedia.org/Edward_Buck"
     },
     {
@@ -122,7 +122,7 @@
         "project": "SPARTAN-IV", 
         "status": "Active",
         "affiliation": "Osiris Assault Team", 
-        "img": "/imgs/olympia.webp",
+        "img": "./public/imgs/olympia.webp",
         "link": "https://www.halopedia.org/Edward_Buck"
     },
     {
@@ -131,7 +131,7 @@
         "project": "SPARTAN-IV", 
         "status": "Active",
         "affiliation": "UNSC Armed Forces", 
-        "img": "/imgs/palmer.webp",
+        "img": "./public/imgs/palmer.webp",
         "link": "https://www.halopedia.org/Sarah_Palmer"
     },
     {
@@ -140,7 +140,7 @@
         "project": "SPARTAN-IV", 
         "status": "Active as of 2558",
         "affiliation": "United Nations Space Command", 
-        "img": "/imgs/team-osiris.webp",
+        "img": "./public/imgs/team-osiris.webp",
         "link": "https://www.halopedia.org/Fireteam_Osiris"
     },
     {
@@ -149,7 +149,7 @@
         "project": "SPARTAN-II", 
         "status": "Active as of 2525",
         "affiliation": "Naval Special Warfare Command(Bransh of the UNSC)", 
-        "img": "/imgs/team-blue.webp",
+        "img": "./public/imgs/team-blue.webp",
         "link": "https://www.halopedia.org/Blue_Team"
     },
     {
@@ -158,7 +158,7 @@
         "project": "SPARTAN-III and SPARTAN-II", 
         "status": " Disbanded by September 2552",
         "affiliation": "UNSC Army's Special Warfare Group Three", 
-        "img": "/imgs/team-noble1.webp",
+        "img": "./public/imgs/team-noble1.webp",
         "link": "https://www.halopedia.org/NOBLE_Team"
     } 
 ]
