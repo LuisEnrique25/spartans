@@ -1,0 +1,43 @@
+.app{
+    min-height: 100vh;
+}
+.app.bg1{
+    background: url(/public/imgs/bg1.webp) no-repeat fixed bottom;
+    background-size: cover;
+}
+.app.bg2{
+    background: url(/public/imgs/bg2.webp) no-repeat fixed center;
+    background-size: cover;
+}
+.app.bg3{
+    background: url(/public/imgs/bg3.webp) no-repeat fixed bottom;
+    background-size: cover;
+}
+.app.bg4{
+    background: url(/public/imgs/bg4.webp) no-repeat fixed center;
+    background-size: cover;
+}
+.app.bg5{
+    background: url(/public/imgs/bg5.webp) no-repeat fixed center;
+    background-size: cover;
+}
+.app.bg6{
+    background: url(/public/imgs/bg6.webp) no-repeat fixed center;
+    background-size: cover;
+}
+.app.bg7{
+    background: url(/public/imgs/bg7.webp) no-repeat fixed center;
+    background-size: cover;
+}
+.app.bg8{
+    background: url(/public/imgs/bg8.webp) no-repeat fixed center;
+    background-size: cover;
+}
+.app.bg9{
+    background: url(/public/imgs/bg9.webp) no-repeat fixed center;
+    background-size: cover;
+}
+.app.bg10{
+    background: url(/public/imgs/bg10.webp) no-repeat fixed center;
+    background-size: cover;
+}
