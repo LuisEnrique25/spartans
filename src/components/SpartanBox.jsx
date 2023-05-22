@@ -1,8 +1,10 @@
 import React from 'react'
+import "./spartanBox.css"
 
 const SpartanBox = ({spartan, handleChangeSpartan}) => {
   return (
-    <section>
+    <section className="card__container">
+        
         <article className="card">
           
             <div className="face front">
@@ -20,7 +22,7 @@ const SpartanBox = ({spartan, handleChangeSpartan}) => {
                 </div>
             </div>  
         </article>
-        <button onClick={handleChangeSpartan} >See oher Spartan</button>
+        <button className='btn__change' onClick={handleChangeSpartan} ><i class="fa-solid fa-dice-d6"></i></button>
     </section>
   )
 }
