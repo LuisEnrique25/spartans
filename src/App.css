@@ -1,5 +1,8 @@
 .app{
     min-height: 100vh;
+    display: flex;
+    align-items: center;
+    justify-content: space-evenly;
 }
 .app.bg1{
     background: url(/public/imgs/bg1.webp) no-repeat fixed bottom;
@@ -40,4 +43,33 @@
 .app.bg10{
     background: url(/public/imgs/bg10.webp) no-repeat fixed center;
     background-size: cover;
+}
+.title{
+    font-size: 2.3rem;
+    font-family: 'Franklin Gothic Medium', sans-serif;
+    writing-mode: vertical-rl; /* Establece el modo de escritura vertical de derecha a izquierda */
+    text-orientation:sideways-right; /*Hace que las letras cambien su orientacion, en este caso hacia la derecha */
+    white-space: nowrap; /* Evita que el título se divida en varias líneas */
+    transform: rotate(180deg);
+    letter-spacing: 15px;
+    color: black;
+    animation: color-change 4s infinite; 
+}   /* Nombre dado a la aminacion    5 segundos durara 1 animacion   infinite hace que sea loop*/
+
+@keyframes color-change {
+  0% {
+    color: #000; /* Color con el que inicia */
+  }
+  50% {
+    color: #fff; /* Color intermedio */
+  }
+  100% {
+    color: #000; /* Color con el que termina, como sugerencia hacer que sea el mismo color con el que inicia para evitar cambios de color de golpe. */
+  }
+
+
+
+
+
+
 }

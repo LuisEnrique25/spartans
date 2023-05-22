@@ -118,21 +118,21 @@
 
 .fa-dice-d6{
     transition: font-size .2s ease-in-out;
-    animation: spin 1.5s infinite; /* Transición suave para la animación */
-    animation-play-state: paused;
+    animation: spin 3s infinite, color-change 4s infinite; /* spin y change-color: animaciones que hara girar el icono  y cambiar de color con la pseudo-clase hover */
+    /*como  el keyframe de color-change ya esta declara en app.css no hace falta declalara aqui pero se puede modificar su duracion*/
+    animation-play-state: paused; /*fuera del hover la animacion se pausa*/
 }
 
 @keyframes spin {
-    from{
+    from{ 
         transform: rotate(0deg);
-        color: rgb(83, 47, 212);
     }to{
         transform: rotate(360deg);
-        color: rgb(18, 18, 197);
     }
+
 }
 
 .btn__change:hover .fa-dice-d6 {
-  animation-play-state: running; 
+  animation-play-state: running; /*Cuando se aplica la pseudo-clase hover, la animacion corre*/
   font-size: 2.25rem;
 }
