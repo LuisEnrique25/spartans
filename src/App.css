@@ -2,7 +2,7 @@
     min-height: 100vh;
     display: flex;
     align-items: center;
-    justify-content: space-evenly;
+    justify-content: space-between;
 }
 .app.bg1{
     background: url(/public/imgs/bg1.webp) no-repeat fixed bottom;
@@ -47,6 +47,8 @@
 .title{
     font-size: 2.3rem;
     font-family: 'Franklin Gothic Medium', sans-serif;
+    margin-left: 50px;
+    transition: all .3s ease-in-out;
     writing-mode: vertical-rl; /* Establece el modo de escritura vertical de derecha a izquierda */
     text-orientation:sideways-right; /*Hace que las letras cambien su orientacion, en este caso hacia la derecha */
     white-space: nowrap; /* Evita que el título se divida en varias líneas */
@@ -67,12 +69,20 @@
     color: #000; /* Color con el que termina, como sugerencia hacer que sea el mismo color con el que inicia para evitar cambios de color de golpe. */
   }  
 }
-@media (max-width: 450px) {
+
+@media (max-width: 690px) {
+  .title{
+    margin-left: 0;
+  }
+}
+
+@media (max-width: 635px) {
   .app{
     flex-direction: column;
   }
   .title{
     writing-mode: horizontal-tb;
     transform: rotate(0deg);
+    margin: 25px 0 0 0;
   }
 }
