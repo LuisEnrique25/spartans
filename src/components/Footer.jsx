@@ -21,14 +21,10 @@ const Footer = ({link, source}) => {
   }
   return (
     <footer className='footer'> 
+      <p>Source: </p>
       <div className="link">
           <a href={`${link}`} target="_blank">{source}</a>
         </div>
-        
-        
-        
-        
-        
         <button className='audio__btn' onClick={handlerAudio}>{isOn ? <i className="fa-solid fa-circle-stop"></i>: <i className="fa-solid fa-circle-play"></i>}</button>
         <audio id='audioPlayer' src={`${audios[1]}`}></audio>
     </footer>
