@@ -8,7 +8,7 @@ const SpartanBox = ({spartan, handleChangeSpartan}) => {
         <article className="card">
           
             <div className="face front">
-                <img src={`${spartan.img}`} alt="Noble 3"/>
+                <img src={`${spartan.img}`} alt={`${spartan.name}`}/>
                 <h3>{`${spartan.name}`}</h3>
             </div>
             <div className="face back">

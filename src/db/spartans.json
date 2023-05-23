@@ -5,7 +5,7 @@
         "project": "SPARTAN-III", 
         "status": "MIA",
         "affiliation": "Team Noble", 
-        "img": "./public/imgs//noble2.webp",
+        "img": "/public/imgs//noble2.webp",
         "source" :"halofandom.com",
         "link": "https://halo.fandom.com/es/wiki/Catherine-B320"
     },   
