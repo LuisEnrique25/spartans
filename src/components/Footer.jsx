@@ -3,7 +3,7 @@ import "./footer.css"
 import { getRandom } from '../utils/random'
 //./public/imgs/team-osiris.webp
 
-const audios = ["./public/multimedia/audio1.mp3", "./public/multimedia/audio2.mp3", "./public/multimedia/audio3.mp3", "./public/multimedia/audio4.mp3"]
+const audios = ["/multimedia/audio1.mp3", "/multimedia/audio2.mp3", "/multimedia/audio3.mp3", "/multimedia/audio4.mp3"]
 
 const Footer = ({link, source}) => {
   const [audio, setAudio] = useState(getRandom(audios));
