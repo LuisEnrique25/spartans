@@ -6,7 +6,6 @@
     flex-direction: column;
 }
 
-
 .container{
     display: flex;
     align-items: center;
@@ -68,8 +67,6 @@
     box-shadow: 0 5px 10px #000;
 }
 
-
-
 .card .back h3{
     font-size: 1rem;
     margin-top: 20px;
@@ -109,8 +106,7 @@
 }
 
 .fa-dice-d6{
-    transition: font-size .2s ease-in-out;
-    animation: spin 3s infinite, color-change 4s infinite; /* spin y change-color: animaciones que hara girar el icono  y cambiar de color con la pseudo-clase hover */
+    animation: spin 2s infinite, color-change 4s infinite; /* spin y change-color: animaciones que hara girar el icono  y cambiar de color con la pseudo-clase hover */
     /*como  el keyframe de color-change ya esta declara en app.css no hace falta declalara aqui pero se puede modificar su duracion*/
     animation-play-state: paused; /*fuera del hover la animacion se pausa*/
 }
@@ -121,7 +117,6 @@
     }to{
         transform: rotate(360deg);
     }
-
 }
 
 .btn__change:hover .fa-dice-d6 {
