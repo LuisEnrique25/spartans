@@ -20,6 +20,9 @@ h6{
     margin: 0;
 }
 
+p{
+    user-select: none;
+}
 
 img{
     max-width: 100%;
