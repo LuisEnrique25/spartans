@@ -65,11 +65,14 @@
   }
   100% {
     color: #000; /* Color con el que termina, como sugerencia hacer que sea el mismo color con el que inicia para evitar cambios de color de golpe. */
+  }  
+}
+@media (max-width: 450px) {
+  .app{
+    flex-direction: column;
   }
-
-
-
-
-
-
+  .title{
+    writing-mode: horizontal-tb;
+    transform: rotate(0deg);
+  }
 }

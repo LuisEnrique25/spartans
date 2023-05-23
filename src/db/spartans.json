@@ -6,6 +6,7 @@
         "status": "MIA",
         "affiliation": "Team Noble", 
         "img": "./public/imgs//noble2.webp",
+        "source" :"halofandom.com",
         "link": "https://halo.fandom.com/es/wiki/Catherine-B320"
     },   
     {
@@ -15,6 +16,7 @@
         "status": "MIA",
         "affiliation": "Team Noble", 
         "img": "./public/imgs/noble1.webp",
+        "source" :"halofandom.com",
         "link": "https://halo.fandom.com/es/wiki/Carter-A259"
     },   
     {
@@ -24,6 +26,7 @@
         "status": "Active",
         "affiliation": "Team Noble", 
         "img": "./public/imgs/noble3.webp",
+        "source" :"halofandom.com",
         "link": "https://halo.fandom.com/es/wiki/Jun-A266"
     } ,
     {
@@ -33,6 +36,7 @@
         "status": "MIA",
         "affiliation": "Team Noble", 
         "img": "./public/imgs//noble4.webp",
+        "source" :"halofandom.com",
         "link": "https://halo.fandom.com/es/wiki/Emile-A239"
     } ,   
     {
@@ -42,6 +46,7 @@
         "status": "MIA",
         "affiliation": "Team Noble", 
         "img": "./public/imgs/noble5.webp",
+        "source" :"halofandom.com",
         "link": "https://halo.fandom.com/es/wiki/Jorge-052"
     } ,
     {
@@ -51,6 +56,7 @@
         "status": "MIA",
         "affiliation": "Team Noble", 
         "img": "./public/imgs/noble6.webp",
+        "source" :"halofandom.com",
         "link": "https://halo.fandom.com/es/wiki/SPARTAN-B312"
     },
     {
@@ -60,6 +66,7 @@
         "status": "Active",
         "affiliation": "Blue Team", 
         "img": "./public/imgs/jhon-117.webp",
+        "source" :"halopedia.org",
         "link": "https://www.halopedia.org/John-117"
     },
     {
@@ -69,6 +76,7 @@
         "status": "Active",
         "affiliation": "Osiris Assault Team", 
         "img": "./public/imgs/tanaka.webp",
+        "source" :"halofandom.com",
         "link": "https://halo.fandom.com/es/wiki/Holly_Tanaka"
     },
     {
@@ -78,6 +86,7 @@
         "status": "Active",
         "affiliation": "Osiris Assault Team", 
         "img": "./public/imgs/locke.webp",
+        "source" :"halopedia.org",
         "link": "https://www.halopedia.org/Jameson_Locke"
     },
     {
@@ -87,6 +96,7 @@
         "status": "Active",
         "affiliation": "Blue Team", 
         "img": "./public/imgs/kelly-087.webp",
+        "source" :"halopedia.org",
         "link": "https://www.halopedia.org/Kelly-087"
     },
     {
@@ -96,6 +106,7 @@
         "status": "Active",
         "affiliation": "Blue Team", 
         "img": "./public/imgs/fred-104.webp",
+        "source" :"halopedia.org",
         "link": "https://www.halopedia.org/Frederic-104"
     },
     {
@@ -105,6 +116,7 @@
         "status": "Active",
         "affiliation": "Blue Team", 
         "img": "./public/imgs/linda-058.webp",
+        "source" :"halopedia.org",
         "link": "https://www.halopedia.org/Linda-058"
     },
     {
@@ -114,6 +126,7 @@
         "status": "Active",
         "affiliation": "Osiris Assault Team", 
         "img": "./public/imgs/buck.webp",
+        "source" :"halopedia.org",
         "link": "https://www.halopedia.org/Edward_Buck"
     },
     {
@@ -123,6 +136,7 @@
         "status": "Active",
         "affiliation": "Osiris Assault Team", 
         "img": "./public/imgs/olympia.webp",
+        "source" :"halopedia.org",
         "link": "https://www.halopedia.org/Edward_Buck"
     },
     {
@@ -132,33 +146,37 @@
         "status": "Active",
         "affiliation": "UNSC Armed Forces", 
         "img": "./public/imgs/palmer.webp",
+        "source" :"halopedia.org",
         "link": "https://www.halopedia.org/Sarah_Palmer"
     },
     {
         "name": "Osiris Assault Team",
-        "description": "The Osiris Assault Team is a specialized combat and intelligence gathering team of Spartan-IV super-soldiers. The team carry out complicated and classified missions for the Unified Earth Government and its United Nations Space Command, usually dealing with problems that the UNSC High Command finds difficult to control. The team's activities are classified at the highest levels of government. Locke is the current leader.", 
+        "description": "The team is responsible for some of the most important actions of the late post-war period, including killing Jul 'Mdama and helping wipe out the remaining forces that help allegiance to 'Mdama.  Osiris was also involved in the Raising of the Guardians, chasing down Spartan-II Blue Team and helping to free them from Cortana before the beginning of her subjugation of the galaxy. ", 
         "project": "SPARTAN-IV", 
         "status": "Active as of 2558",
         "affiliation": "United Nations Space Command", 
         "img": "./public/imgs/team-osiris.webp",
-        "link": "https://www.halopedia.org/Fireteam_Osiris"
+        "source" :"evolvedhalo.com",
+        "link": "https://evolvedhalo.com/lore/characters/fireteam-osiris"
     },
     {
         "name": "Blue Team",
-        "description": "A semi-constant unit comprised of Spartan-IIs under the operational command of the UNSC Naval Special Warfare Command, Blue Team has participated in over two hundred and twenty military operations. The team is exceptional even among Spartans-II due to their participation in many of the major engagements.The team was led by John-117 for most of his activity during the Human-Covenant War, Frederic-104 assumed the role of temporal leader until John resumed the facto command.", 
+        "description": "Blue Team was involved in some of the most dangerous missions, managing to accomplish their goals while facing impossible odds.  Their most significant mission was probably Operation: FIRST STRIKE, where Blue Team successfully infiltrated a Covenant space station, destroying both the station and nearly five hundred Covenant warships poised to attack Earth.  Though rarely referenced, this mission was likely the single most important event that helped the UNSC win the Battle for Earth and the Human-Covenant War.", 
         "project": "SPARTAN-II", 
         "status": "Active as of 2525",
         "affiliation": "Naval Special Warfare Command(Bransh of the UNSC)", 
         "img": "./public/imgs/team-blue.webp",
-        "link": "https://www.halopedia.org/Blue_Team"
+        "source" :"evolvedhalo.com",
+        "link": "https://evolvedhalo.com/lore/characters/blue-team"
     },
     {
         "name": "Noble Team",
-        "description": "Noble Team was a strike team composed primarily of Spartan-III supersoldiers and a Spartan-II commando. Before the Fall of Reach, the Noble Team had managed to survive and win countless battles. His last military campaign was during the fall of Reach where almost all died, however his participation ensured a future for humanity by completing suicide missions. Jun-A266 is the only survivor of the team.", 
+        "description": "Noble Team fought in various battles from its formation until its deactivation, but is best known for their actions on Reach, helping destroy the Covenant supercarrier Long Night of Solace, transport the AI Cortana and her newly discovered Forerunner data to the UNSC Pillar of Autumn, and defend the Pillar of Autumn from Covenant attack in the closing conflicts of the Fall of Reach.", 
         "project": "SPARTAN-III and SPARTAN-II", 
         "status": " Disbanded by September 2552",
         "affiliation": "UNSC Army's Special Warfare Group Three", 
         "img": "./public/imgs/team-noble1.webp",
-        "link": "https://www.halopedia.org/NOBLE_Team"
+        "source" :"evolvedhalo.com",
+        "link": "https://evolvedhalo.com/lore/characters/noble-team"
     } 
 ]

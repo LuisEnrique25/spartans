@@ -68,15 +68,7 @@
     box-shadow: 0 5px 10px #000;
 }
 
-.card .back .link{
-    border-top: 1px solid #f3f3f3;
-    height: 50px;
-    line-height: 50px;
-}
 
-.card .back .link a{
-    color: #f3f3f3;
-}
 
 .card .back h3{
     font-size: 1rem;
@@ -101,7 +93,7 @@
 @media (max-width: 540px) {
     .card{
         width: 350px;
-        height: 600px;
+        height: 450px;
     }
     
 }

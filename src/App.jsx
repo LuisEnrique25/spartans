@@ -20,9 +20,10 @@ function App() {
       <section>
           <h1 className='title'>SPARTANS</h1>
         </section>
+      
         <SpartanBox spartan={spartan} handleChangeSpartan={handleChangeSpartan} />
-        <Footer/>
-
+        
+        <Footer link={spartan.link} source={spartan.source}/>
         
     </main>
   )

@@ -17,12 +17,10 @@ const SpartanBox = ({spartan, handleChangeSpartan}) => {
                 <p>Project: {`${spartan.project}`}</p>
                 <p>Affiliation: {`${spartan.affiliation}`}</p>
                 <p>Estatus: {`${spartan.status}`}</p>
-                <div className="link">
-                    <a href={`${spartan.link}`} target="_blank">More Info</a>
-                </div>
+                
             </div>  
         </article>
-        <button className='btn__change' onClick={handleChangeSpartan} ><i class="fa-solid fa-dice-d6"></i></button>
+        <button className='btn__change' onClick={handleChangeSpartan} ><i className="fa-solid fa-dice-d6"></i></button>
     </section>
   )
 }
