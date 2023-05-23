@@ -5,7 +5,7 @@
         "project": "SPARTAN-III", 
         "status": "MIA",
         "affiliation": "Team Noble", 
-        "img": "/public/imgs//noble2.webp",
+        "img": "/imgs//noble2.webp",
         "source" :"halofandom.com",
         "link": "https://halo.fandom.com/es/wiki/Catherine-B320"
     },   
@@ -135,7 +135,7 @@
         "project": "SPARTAN-IV", 
         "status": "Active",
         "affiliation": "Osiris Assault Team", 
-        "img": "/public/imgs/olympia.webp",
+        "img": "/imgs/olympia.webp",
         "source" :"halopedia.org",
         "link": "https://www.halopedia.org/Edward_Buck"
     },

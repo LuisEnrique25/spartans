@@ -21,7 +21,7 @@ function App() {
           <h1 className='title'>SPARTANS</h1>
         </section>
       
-        <SpartanBox spartan={spartan} handleChangeSpartan={handleChangeSpartan} />
+        <SpartanBox spartan={dbSartans[0]} handleChangeSpartan={handleChangeSpartan} />
         
         <Footer link={spartan.link} source={spartan.source}/>
         
