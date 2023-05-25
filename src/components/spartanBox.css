@@ -123,3 +123,13 @@
   animation-play-state: running; /*Cuando se aplica la pseudo-clase hover, la animacion corre*/
   font-size: 2.25rem;
 }
+
+@media (max-width: 450px) {
+    .card{
+        width: 250px;
+        height: 450px;
+    }
+    .card .back p{
+        font-size: .7rem;
+    }
+}

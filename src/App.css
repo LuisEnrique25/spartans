@@ -76,7 +76,7 @@
   }
 }
 
-@media (max-width: 635px) {
+@media (max-width: 655px) {
   .app{
     flex-direction: column;
   }
@@ -84,5 +84,12 @@
     writing-mode: horizontal-tb;
     transform: rotate(0deg);
     margin: 25px 0 0 0;
+  }
+}
+
+@media (max-width: 330px) {
+  .title{
+    font-size: 1.8rem;
+    letter-spacing: 10px;
   }
 }
