@@ -16,7 +16,7 @@
 
 .card{
     position: relative;
-    width: 400px;
+    width: 350px;
     height: 450px;
     margin: 20px;
     transition: all .3s ease-in-out;
